@@ -1,0 +1,15 @@
+C:\Revature\PO Coding Challenges\Challenge1\bin\Debug\net6.0\Challenge1.exe
+C:\Revature\PO Coding Challenges\Challenge1\bin\Debug\net6.0\Challenge1.deps.json
+C:\Revature\PO Coding Challenges\Challenge1\bin\Debug\net6.0\Challenge1.runtimeconfig.json
+C:\Revature\PO Coding Challenges\Challenge1\bin\Debug\net6.0\Challenge1.dll
+C:\Revature\PO Coding Challenges\Challenge1\bin\Debug\net6.0\Challenge1.pdb
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\Challenge1.csproj.AssemblyReference.cache
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\Challenge1.AssemblyInfoInputs.cache
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\Challenge1.AssemblyInfo.cs
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\Challenge1.csproj.CoreCompileInputs.cache
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\Challenge1.dll
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\refint\Challenge1.dll
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\Challenge1.pdb
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\Challenge1.genruntimeconfig.cache
+C:\Revature\PO Coding Challenges\Challenge1\obj\Debug\net6.0\ref\Challenge1.dll
